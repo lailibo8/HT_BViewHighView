@@ -1,0 +1,16 @@
+PODS:
+  - HT_BViewHighView (0.1.0)
+
+DEPENDENCIES:
+  - HT_BViewHighView (from `../`)
+
+EXTERNAL SOURCES:
+  HT_BViewHighView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HT_BViewHighView: d1ad6fc8c8120f19527cd368e55abe77cf2367ab
+
+PODFILE CHECKSUM: 554ed9e46eaa4815f978edeee263fecd26fef9a6
+
+COCOAPODS: 1.5.2
