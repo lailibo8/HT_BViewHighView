@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HT_BViewHighView_Example' do
+  pod 'HT_BViewHighView', :path => '../'
+
+  target 'HT_BViewHighView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
